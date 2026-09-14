@@ -8,6 +8,6 @@
 
 ## About Me i like wacthing sports like soccer/boxing and im a very respctfull person 
 
-Click here to learn more → [About Me](about.mdLinks to an external site.)
+Click here to learn more → [About Me](about.md)
 
 ## Notebook
