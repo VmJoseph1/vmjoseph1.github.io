@@ -11,3 +11,4 @@
 Click here to learn more → [About Me](about.md)
 
 ## Notebook
+[engineering notebook](notebook.md) 
